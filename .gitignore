@@ -1,0 +1,7 @@
+/.venv
+/.vscode
+/crawler.py
+/data.csv
+/dict_hplevel.csv
+/doctors.csv
+/hosp_level.csv
